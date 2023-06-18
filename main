@@ -1,0 +1,7 @@
+import pylogix
+
+def main():
+  print('x')
+  
+if __main__:
+  main()
